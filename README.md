@@ -17,7 +17,7 @@ Phishing is a type of cyber attack where attackers disguise themselves as trustw
 
 The repository is organized as follows:
 
-- `phishing_samples/`: Real-world examples of phishing emails and websites.
+- `phishing_samples/`: Real-world phishing detected by our team.
 - `analysis/`: Detailed analysis of phishing techniques used in the samples.
 - `indicators/`: Indicators of Compromise (IoCs) for detecting these phishing attacks.
 - `resources/`: Links to articles, tools, and resources related to phishing in Brazil.
