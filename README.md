@@ -6,7 +6,7 @@
 
 Phishing is a type of cyber attack where attackers disguise themselves as trustworthy entities to steal sensitive information, including login credentials, credit card numbers, and other personal data. This repository helps identify and document phishing campaigns that are actively targeting Brazilian financial institutions and businesses.
 
-## If you are interested in a live feed API, please contact us contato@swarmy.io
+## If you are interested in a live feed API, please contact us <contato@swarmy.io> [Swarmy](https://www.linkedin.com/company/swarmyio)
 
 ## Objectives
 
